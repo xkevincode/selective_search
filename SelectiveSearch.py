@@ -1,6 +1,7 @@
 '''
 Usage:
     selective search method to give region proposal
+    OpenCV python API function, cv2.ximgproc.segmentation.createSelectiveSearchSegmentation()
     F stands for fast but low precison
     H stands for high precision but low speed
 
