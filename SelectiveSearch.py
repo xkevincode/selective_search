@@ -1,6 +1,8 @@
 '''
 Usage:
     selective search method to give region proposal
+    F stands for fast but low precison
+    H stands for high precision but low speed
 
 '''
 
